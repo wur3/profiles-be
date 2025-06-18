@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Sensitive data
+*.db
+
+# watever this is
+.DS_Store
